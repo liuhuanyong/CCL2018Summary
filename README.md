@@ -15,6 +15,6 @@ self summary after attending CCL2018 (全国计算语言学学术会议), CCL201
 # 有趣的项目
 ![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/intresting_title2.jpg)
 # 模型总结
-![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/intresting_model.jpg)
+![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/model.jpg)
 # 语言资源总结
-![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/intresting_resources.jpg)
+![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/resources.jpg)
