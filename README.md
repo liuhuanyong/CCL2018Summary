@@ -9,7 +9,8 @@ self summary after attending CCL2018 (全国计算语言学学术会议), CCL201
 
 3,中文海报.包括17篇中文poster海报,觉得比较有意思  
 
-# 参会的几点总结(本人未投论文,客观感觉,不喜勿喷)
+# 参会的几点总结
+(本人未投论文,客观感觉,不喜勿喷)
 # 有趣的项目
 ![image](https://github.com/liuhuanyong/CCL2018Summary/blob/master/image/intresting_title.jpg)
 # 有趣的项目
